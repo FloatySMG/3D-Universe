@@ -1,1 +1,1 @@
-This is the repository for SM3DU, a mod for SM3DW+BF. As of now, the mod is set to come out by the end of the year.
+This is the repository for SM3DU, a small high quality mod for Super Mario 3D World + Bowser's Fury. It includes 4 stages and some bonus areas.
