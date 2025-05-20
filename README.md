@@ -1,1 +1,1 @@
-This is the repository for SM3DU, a small high quality mod for Super Mario 3D World + Bowser's Fury. It includes 4 stages and some bonus areas.
+This is the repository for Super Mario Moonlight, a small high quality mod for Super Mario 3D World + Bowser's Fury. It includes one new fully custom world for you to explore.
